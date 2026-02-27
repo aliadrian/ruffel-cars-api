@@ -6,5 +6,13 @@
     "year": 2019,
     "color": "Black",
     "price": 249000
+  },
+  {
+    "regnr": "ADD321",
+    "make": "Ford",
+    "model": "9-3",
+    "year": 2014,
+    "color": "White",
+    "price": 75000
   }
 ]
